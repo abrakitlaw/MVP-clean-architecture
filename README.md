@@ -7,3 +7,10 @@ Why use MVP?
 3. Code Re-usability — In MVP, the code can be better reused since you can have multiple presenters controlling your Views. This is more important as you definitely don’t want to rely on a single presenter to control your different Views.
 
 ### Clean Architecture
+![alt text](https://github.com/abrakitlaw/MVP-clean-architecture/blob/master/Screenshot%202019-08-20%20at%2001.44.56.png)
+
+### Architectural Approach
+![alt text](https://github.com/abrakitlaw/MVP-clean-architecture/blob/master/Screenshot%202019-08-20%20at%2001.44.56.png)
+
+### Architectural Reactive Approach
+![alt text](https://github.com/abrakitlaw/MVP-clean-architecture/blob/master/Screenshot%202019-08-20%20at%2001.44.56.png)
