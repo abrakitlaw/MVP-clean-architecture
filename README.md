@@ -11,7 +11,7 @@ The big difference with base MVP sample is the use of the Domain layer and use c
 
 Use cases define the operations that the app needs. This increases readability since the names of the classes make the purpose obvious.
 
-Use cases are good for operation reuse over our domain code. CompleteTask is a good example of this as it's used from both the TaskDetailPresenter and the TasksPresenter.
+Use cases are good for operation reuse over our domain code. 
 
 The execution of these use cases is done in a background thread using the command pattern. The domain layer is completely decoupled from the Android SDK or other third party libraries.
 
