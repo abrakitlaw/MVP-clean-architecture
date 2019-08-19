@@ -10,7 +10,7 @@ Why use MVP?
 ![alt text](https://github.com/abrakitlaw/MVP-clean-architecture/blob/master/Screenshot%202019-08-20%20at%2001.44.56.png)
 
 ### Architectural Approach
-![alt text](https://github.com/abrakitlaw/MVP-clean-architecture/blob/master/Screenshot%202019-08-20%20at%2001.44.56.png)
+![alt text](https://github.com/abrakitlaw/MVP-clean-architecture/blob/master/Screenshot%202019-08-20%20at%2001.51.45.png)
 
 ### Architectural Reactive Approach
-![alt text](https://github.com/abrakitlaw/MVP-clean-architecture/blob/master/Screenshot%202019-08-20%20at%2001.44.56.png)
+![alt text](https://github.com/abrakitlaw/MVP-clean-architecture/blob/master/Screenshot%202019-08-20%20at%2001.51.58.png)
