@@ -1,4 +1,4 @@
-# MVP-clean-architecture
+# MVP Clean Architecture
 MVP is architectural pattern which mostly used for building user interfaces. In MVP, the presenter assumes the functionality of the "middle-man". In MVP, all presentation logic is pushed to the presenter. MVP advocates separating business and persistence logic out of the Activity and fragment
 
 Why use MVP?
